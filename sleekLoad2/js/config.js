@@ -84,7 +84,7 @@ var l_bgDarkening = 70;
 var l_music = true;
 
 /*Display actual song's name?*/
-var l_musicDisplay = false;
+var l_musicDisplay = true;
 
 /*Music playlist
 Place how much .ogg songs you want
@@ -93,7 +93,7 @@ var l_musicPlaylist = [
 	{youtube: "DOAvSbUmXAA&t", name: "SCP Main Theme"},
 	{youtube: "VRbL1jWm", name: "SCP Nuke Sound Effect"},
 	{youtube: "ULRvIs6AT0o", name: "SCP Containment Breach OS: Blue Feather"},
-	{youtube: "YJaeH8ffl_M", name: "SCP Containment Breach Theme (MTF Mod)"},
+	{youtube: "YJaeH8ffl_M", name: "SCP Containment Breach Theme (MTF Mod)"}
 ];
 
 /*Random music order?*/
